@@ -42,5 +42,10 @@ Browse file Select One file and Windows Based (hide the console)
 ![image](https://github.com/HatGirl-zz/Best-Stealer/assets/120135553/5f8a25b9-e982-4d1f-a440-f64211ee7369)
 
 
+![image](https://github.com/HatGirl-zz/SatanStealer/assets/120135553/940dea6b-8760-4d69-9b21-a87008d0ccea)
+![image](https://github.com/HatGirl-zz/SatanStealer/assets/120135553/b9e8b390-8183-4e89-9ced-cfc874b0bec4)
+
+![image](https://github.com/HatGirl-zz/SatanStealer/assets/120135553/87a9f016-1e92-4ce0-8808-8f1589ad1add)
+
 
 And press covert .py .exe
