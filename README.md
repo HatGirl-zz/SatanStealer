@@ -1,6 +1,6 @@
 # SatanStealer
 Stealer grab discord cookie
-
+autofil..
 
 » Grab Discord Information and HQ Friends.
 
