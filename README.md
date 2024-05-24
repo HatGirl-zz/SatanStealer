@@ -38,7 +38,7 @@ Open CMD and type pip install auto_py_to_exe
 
 And after installed python -m auto_py_to_exe
 
-Browse file Select One file and Windows Based (hide the console)
+Browse files Select One file and Windows Based (hide the console)
 ![image](https://github.com/HatGirl-zz/Best-Stealer/assets/120135553/5f8a25b9-e982-4d1f-a440-f64211ee7369)
 
 
