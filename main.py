@@ -17,7 +17,7 @@ import subprocess
 
 
 
-#REPLACE  YOUR WEBHOOK
+#REPLACE YOUR WEBHOOK
 
 
 hook = "YOUR_WEBHOOK"
