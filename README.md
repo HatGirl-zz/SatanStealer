@@ -1,6 +1,6 @@
 # SatanStealer
 Stealer grab discord cookie
-autofil..
+autofils..
 » Best grab 
 /» bypass ANTIVIRUS 100%
 » Grab Discord Information and HQ Friends.
