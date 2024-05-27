@@ -11,7 +11,7 @@ autofil..
 
 » Shows Crypto Wallets
 
-» Grab metamask/exodus
+» Grab metamask/exodus..
 
 » Grab Telegram
 
