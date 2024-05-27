@@ -7,7 +7,7 @@ autofil..
 
 » Grab Password & cookies.
 
-» Grab Files.
+» Grab Filess.
 
 » Shows Crypto Wallets
 
