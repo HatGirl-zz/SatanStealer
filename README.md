@@ -3,7 +3,7 @@ Stealer grab discord cookie
 autofils..<br>
 » Best grab 
 <br>
-/» bypass ANTIVIRUS 100%
+» bypass ANTIVIRUS 100%
 <br>
 » Grab Discord Information and HQ Friends.
 
