@@ -63,4 +63,4 @@ Browse files Select One file and Windows Based (hide the console)
 
 
 And press convert .py .exe
-uwu ♥ easy !!
+uwu ♥ easy !!!
