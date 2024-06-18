@@ -48,7 +48,7 @@ if you have an error while installing try pip install -r requirements.txt
 
 If you need to use pyinstaller to convert python file to exe.
 
-Open CMD and type pip install auto_py_to_exe
+Open CMD and type pip install auto_py_to_exe.
 
 And after installed python -m auto_py_to_exe !
 
